@@ -1,0 +1,8 @@
+Foood wars_Data
+Foood wars_Data\il2cpp_data
+Foood wars_Data\il2cpp_data\Metadata
+Foood wars_Data\il2cpp_data\Resources
+Foood wars_Data\Plugins
+Foood wars_Data\Plugins\x86_64
+Foood wars_Data\Resources
+Foood wars_Data\StreamingAssets

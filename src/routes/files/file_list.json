@@ -1,0 +1,158 @@
+[
+  {
+    "path": "baselib.dll",
+    "md5": "1b77759c2f0cda59fd4e90432b02811d"
+  },
+  {
+    "path": "Foood wars.exe",
+    "md5": "34fd980f9d0311ce8bfd736f7ac85fb2"
+  },
+  {
+    "path": "Foood wars_Data\\app.info",
+    "md5": "75310baa35a9e2c20fc692767961ea70"
+  },
+  {
+    "path": "Foood wars_Data\\boot.config",
+    "md5": "87273221c1671739160c5884137eb7ed"
+  },
+  {
+    "path": "Foood wars_Data\\globalgamemanagers",
+    "md5": "ed55f0038251178f9b314084f5ea4d19"
+  },
+  {
+    "path": "Foood wars_Data\\globalgamemanagers.assets",
+    "md5": "cfd984c3dfe7fe4ca3042b56c99991f6"
+  },
+  {
+    "path": "Foood wars_Data\\globalgamemanagers.assets.resS",
+    "md5": "69e2e2540ec11fb3a7360dd7d55fea50"
+  },
+  {
+    "path": "Foood wars_Data\\il2cpp_data\\Metadata\\global-metadata.dat",
+    "md5": "7c5745b0c635abf334627d8b1179e8b3"
+  },
+  {
+    "path": "Foood wars_Data\\il2cpp_data\\Resources\\mscorlib.dll-resources.dat",
+    "md5": "21d06dbc8af6432b2b49536ed30609af"
+  },
+  {
+    "path": "Foood wars_Data\\il2cpp_data\\Resources\\Newtonsoft.Json.dll-resources.dat",
+    "md5": "f1fbe4ec4c9abb5693bb0144c50d9f5e"
+  },
+  {
+    "path": "Foood wars_Data\\il2cpp_data\\Resources\\System.Data.dll-resources.dat",
+    "md5": "4860ddd4350579f8fcacb1881582335a"
+  },
+  {
+    "path": "Foood wars_Data\\level0",
+    "md5": "7901f60a975b4cd680b142780a4b55d2"
+  },
+  {
+    "path": "Foood wars_Data\\level0.resS",
+    "md5": "fe26734bb60f81f7b035b26d98ef5eeb"
+  },
+  {
+    "path": "Foood wars_Data\\level1",
+    "md5": "ec42d075a2855c41b8faef500723e19a"
+  },
+  {
+    "path": "Foood wars_Data\\level1.resS",
+    "md5": "b1849e954542e3d3e7dc722e40317f8f"
+  },
+  {
+    "path": "Foood wars_Data\\level2",
+    "md5": "f52cd42beeef899f1847c994c7436aae"
+  },
+  {
+    "path": "Foood wars_Data\\level2.resS",
+    "md5": "b1849e954542e3d3e7dc722e40317f8f"
+  },
+  {
+    "path": "Foood wars_Data\\level3",
+    "md5": "fd65c099ceb3e5a3895829920f78da92"
+  },
+  {
+    "path": "Foood wars_Data\\level3.resS",
+    "md5": "b1849e954542e3d3e7dc722e40317f8f"
+  },
+  {
+    "path": "Foood wars_Data\\Plugins\\x86_64\\EOSSDK-Win32-Shipping.dll",
+    "md5": "a85f47334f146181bb2281e4ae2589e7"
+  },
+  {
+    "path": "Foood wars_Data\\Plugins\\x86_64\\EOSSDK-Win64-Shipping.dll",
+    "md5": "e143b3ff30e8001065b44d3d21bd781b"
+  },
+  {
+    "path": "Foood wars_Data\\Plugins\\x86_64\\lib_burst_generated.dll",
+    "md5": "6bef16d4a73f2e7953358739a414cce7"
+  },
+  {
+    "path": "Foood wars_Data\\Resources\\unity default resources",
+    "md5": "ad4278530791cff0c07736b9af43e173"
+  },
+  {
+    "path": "Foood wars_Data\\Resources\\unity_builtin_extra",
+    "md5": "93252eefc49c6257e63f5c80de537434"
+  },
+  {
+    "path": "Foood wars_Data\\resources.assets",
+    "md5": "2292cd2547fe436d9bd830e755c62a4d"
+  },
+  {
+    "path": "Foood wars_Data\\resources.assets.resS",
+    "md5": "e47697960acec1683ed9f7a1e2059f7a"
+  },
+  {
+    "path": "Foood wars_Data\\RuntimeInitializeOnLoads.json",
+    "md5": "0dada9c6bd3335b5ea24c9f7b60845ee"
+  },
+  {
+    "path": "Foood wars_Data\\ScriptingAssemblies.json",
+    "md5": "b49aa04ed590a8383258a8dc625a63bf"
+  },
+  {
+    "path": "Foood wars_Data\\sharedassets0.assets",
+    "md5": "ff10b4cdd824e8b12489dc6830a93d8a"
+  },
+  {
+    "path": "Foood wars_Data\\sharedassets1.assets",
+    "md5": "b756d46386585d001ec961e915efc469"
+  },
+  {
+    "path": "Foood wars_Data\\sharedassets1.assets.resS",
+    "md5": "e402ddc44013b68d8a472c5e35ac3885"
+  },
+  {
+    "path": "Foood wars_Data\\sharedassets1.resource",
+    "md5": "c3f86a8ba296ba2b2dc9d4748e238002"
+  },
+  {
+    "path": "Foood wars_Data\\sharedassets2.assets",
+    "md5": "86f68554f8ef3982eef306e3547636f2"
+  },
+  {
+    "path": "Foood wars_Data\\sharedassets3.assets",
+    "md5": "c5503d2a81dcd7b8a15847b34dc8edda"
+  },
+  {
+    "path": "Foood wars_Data\\sharedassets3.assets.resS",
+    "md5": "7c750ed1c0f702c8e1e31195e44eeb73"
+  },
+  {
+    "path": "Foood wars_Data\\StreamingAssets\\UnityServicesProjectConfiguration.json",
+    "md5": "42f013e321b7818ea4532ebb23a248d4"
+  },
+  {
+    "path": "GameAssembly.dll",
+    "md5": "04d9a58bfb511c864a24994b97160920"
+  },
+  {
+    "path": "UnityCrashHandler64.exe",
+    "md5": "319916a194ea68bae66a98d98dbad865"
+  },
+  {
+    "path": "UnityPlayer.dll",
+    "md5": "7fa51a52c2797bc1f462fa0495497869"
+  }
+]
