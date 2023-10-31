@@ -9,7 +9,8 @@ router.get('/download/:md5', (req, res) => {
     const fileInfo = fileData.find((file) => file.md5 === md5);
   
     if (fileInfo) {
-      const filePath = __dirname + "/files/game/"+ fileInfo.path // Update with your file directory
+      let p = fileInfo.path.replace(/\\/g, "/");
+      const filePath = __dirname + "/files/game/"+ p // Update with your file directory
       res.download(filePath); // Initiate the file download
     } else {
       res.status(404).send('File not found');
