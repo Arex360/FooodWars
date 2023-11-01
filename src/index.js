@@ -1,5 +1,6 @@
 const express = require('express')
 const cors = require('cors')
+const timeout = require('connect-timeout');
 const { GetFolders, GetFiles, DownloadFiles } = require('./routes/routes')
 const app = express()
 app.use(cors())
